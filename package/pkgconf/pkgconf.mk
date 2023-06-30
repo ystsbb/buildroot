@@ -5,7 +5,7 @@
 ################################################################################
 
 PKGCONF_VERSION = 1.6.3
-PKGCONF_SITE = https://distfiles.dereferenced.org/pkgconf
+PKGCONF_SITE = https://github.com/pkgconf/pkgconf/releases/tag/pkgconf-$(PKGCONF_VERSION)
 PKGCONF_SOURCE = pkgconf-$(PKGCONF_VERSION).tar.xz
 PKGCONF_LICENSE = pkgconf license
 PKGCONF_LICENSE_FILES = COPYING
